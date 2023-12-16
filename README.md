@@ -18,3 +18,4 @@ El proyecto va a ser una calculadora que haga las siguientes funciones:
  - debe trabajar formato de ingenieria o decimal (a eleccion por el usuario)
  - Convertir entre bases numéricas (binario, octal, hexadecimal)
  - graficadora de funciones 
+ - Historial 
